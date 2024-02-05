@@ -52,8 +52,4 @@ Exploration of the relationship between sales, discount, and profit in different
 
 The project wraps up by providing practical insights to assist the product development team in making strategic decisions, prioritizing improvements, and refining product offerings according to customer preferences and market dynamics.
 
-Feel free to check out the interactive Tableau dashboard for further exploration 
-
-Understanding Product Ordering Patterns Across Industries:
-Identification of top products across industries, with a focus on the consistent popularity of ContactMatcher.
-Provision of strategic insights for product development based on industry-specific preferences.
+Feel free to check out the interactive Tableau dashboard for further exploration https://public.tableau.com/app/profile/muhammad.rifky.ronanda.suryatama/viz/AWSSAAS/Story1?publish=yes
