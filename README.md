@@ -49,6 +49,11 @@ Global Optimization of Products:
 Conduction of correlation analysis for the top and bottom 3 countries.
 Exploration of the relationship between sales, discount, and profit in different regions.
 
+
+The project wraps up by providing practical insights to assist the product development team in making strategic decisions, prioritizing improvements, and refining product offerings according to customer preferences and market dynamics.
+
+Feel free to check out the interactive Tableau dashboard for further exploration 
+
 Understanding Product Ordering Patterns Across Industries:
 Identification of top products across industries, with a focus on the consistent popularity of ContactMatcher.
 Provision of strategic insights for product development based on industry-specific preferences.
